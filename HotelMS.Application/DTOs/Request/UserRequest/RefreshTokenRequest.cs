@@ -1,0 +1,7 @@
+﻿namespace HotelMS.Application.DTOs.UserRequest
+{
+    public class RefreshTokenRequest
+    {
+        public string RefreshToken { get; set; }
+    }
+}
