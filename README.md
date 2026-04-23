@@ -1,5 +1,3 @@
-# HotelMS_API
-
 # HotelMS
 
 HotelMS is a backend hotel management system built with ASP.NET Core Web API using Clean Architecture.
